@@ -1,7 +1,6 @@
 # epsilon-hub.github.io
 Official Landing Page for Epsilon-Hub members.
 
-## What we need to use to make this repository built and published with GitHub Pages
+## How to contribute
 
-`pending...`
-
+Clone this repository, and you can use **STATIC** page generators to make the page. Explore! 
